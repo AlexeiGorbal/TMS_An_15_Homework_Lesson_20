@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TMS_An_15_Homework_Lesson_20</string>
+    <string name="add_note">Add note</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+    <string name="text">Text</string>
+    <string name="important">Important</string>
+</resources>
